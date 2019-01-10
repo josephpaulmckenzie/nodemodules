@@ -7,5 +7,5 @@
  */
 
 module.exports = function(name) {
-    return console.log("Hello",name);
+    return console.log("Hello" + " " + name);
 };

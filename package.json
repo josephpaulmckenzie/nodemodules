@@ -1,6 +1,6 @@
 {
   "name": "aws-deploy-helper",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A Module to assist with using aws with sqs,lambda,s3,apigateway ect.",
   "main": "index.js",
   "scripts": {
