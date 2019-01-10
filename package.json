@@ -1,0 +1,15 @@
+{
+  "name": "aws-deploy-helper",
+  "version": "1.0.0",
+  "description": "A Module to assist with using aws with sqs,lambda,s3,apigateway ect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "author": "Joseph Mckenzie <joseph.p.mckenzie84@gmail.com> (https://www.github.com/josephpaulmckenzie)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
